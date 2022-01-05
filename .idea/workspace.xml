@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="242c4fd1-2329-4a82-817a-4ba3788ac5ca" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/BusTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/BusTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/Bus.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Bus.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/test-classes/BusTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/BusTest.class" afterDir="false" />
     </list>
@@ -30,6 +31,15 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="WARN_ABOUT_CRLF" value="false" />
   </component>
+  <component name="LineStatusTrackerManager">
+    <file path="$PROJECT_DIR$/src/test/java/BusTest.java">
+      <ranges>
+        <range start1="14" end1="14" start2="14" end2="15" changelist="242c4fd1-2329-4a82-817a-4ba3788ac5ca" />
+        <range start1="24" end1="24" start2="25" end2="26" changelist="242c4fd1-2329-4a82-817a-4ba3788ac5ca" />
+        <range start1="66" end1="66" start2="68" end2="95" changelist="13d2f48d-70ec-432b-88af-9a80db45eb93" />
+      </ranges>
+    </file>
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -46,7 +56,16 @@
     <property name="codeWithMe.voiceChat.enabledByDefault" value="false" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JUnit.BusTest">
+    <configuration name="BusStopTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="BusClassesPractice" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="BusStopTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="BusTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="BusClassesPractice" />
       <option name="PACKAGE_NAME" value="" />
@@ -59,6 +78,7 @@
     <recent_temporary>
       <list>
         <item itemvalue="JUnit.BusTest" />
+        <item itemvalue="JUnit.BusStopTest" />
       </list>
     </recent_temporary>
   </component>
@@ -92,13 +112,21 @@
       <option name="project" value="LOCAL" />
       <updated>1641395562230</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="MVP completed">
+      <created>1641395996637</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1641395996637</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial commit" />
     <MESSAGE value="Initial commit 2" />
     <MESSAGE value="Most of MVP completed" />
-    <option name="LAST_COMMIT_MESSAGE" value="Most of MVP completed" />
+    <MESSAGE value="MVP completed" />
+    <option name="LAST_COMMIT_MESSAGE" value="MVP completed" />
   </component>
 </project>
