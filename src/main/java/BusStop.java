@@ -14,8 +14,12 @@ public class BusStop {
         return this.queue.size();
     }
 
-    public void addToQueue(Person person1) {
-        this.queue.add(person1);
+    public void addToQueue(Person person) {
+        this.queue.add(person);
+    }
+
+    public void addToFrontOfQueue(Person person) {
+        this.queue.add(0, person);
     }
 
     public Person removeFromQueue() {
@@ -25,6 +29,14 @@ public class BusStop {
             this.queue.remove(0);
         }
         return removedPerson;
+    }
+
+    public Person getPersonAtFrontOfQueue() {
+        Person firstPerson = null;
+        if (this.queue.size() != 0) {
+            firstPerson = this.queue.get(0);
+        }
+        return firstPerson;
     }
 
 }

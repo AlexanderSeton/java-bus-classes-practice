@@ -6,8 +6,10 @@
   <component name="ChangeListManager">
     <list default="true" id="242c4fd1-2329-4a82-817a-4ba3788ac5ca" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/BusStop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/BusStop.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/BusTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/BusTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/Bus.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Bus.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/BusStop.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/BusStop.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/test-classes/BusTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/BusTest.class" afterDir="false" />
     </list>
     <list id="13d2f48d-70ec-432b-88af-9a80db45eb93" name="Changes by Anita" comment="">
@@ -35,8 +37,8 @@
     <file path="$PROJECT_DIR$/src/test/java/BusTest.java">
       <ranges>
         <range start1="14" end1="14" start2="14" end2="15" changelist="242c4fd1-2329-4a82-817a-4ba3788ac5ca" />
-        <range start1="24" end1="24" start2="25" end2="26" changelist="242c4fd1-2329-4a82-817a-4ba3788ac5ca" />
-        <range start1="66" end1="66" start2="68" end2="95" changelist="13d2f48d-70ec-432b-88af-9a80db45eb93" />
+        <range start1="25" end1="25" start2="26" end2="27" changelist="242c4fd1-2329-4a82-817a-4ba3788ac5ca" />
+        <range start1="68" end1="68" start2="70" end2="136" changelist="13d2f48d-70ec-432b-88af-9a80db45eb93" />
       </ranges>
     </file>
   </component>
@@ -119,7 +121,14 @@
       <option name="project" value="LOCAL" />
       <updated>1641395996637</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Extensions completed">
+      <created>1641397673714</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1641397673714</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -127,6 +136,7 @@
     <MESSAGE value="Initial commit 2" />
     <MESSAGE value="Most of MVP completed" />
     <MESSAGE value="MVP completed" />
-    <option name="LAST_COMMIT_MESSAGE" value="MVP completed" />
+    <MESSAGE value="Extensions completed" />
+    <option name="LAST_COMMIT_MESSAGE" value="Extensions completed" />
   </component>
 </project>

@@ -12,6 +12,7 @@ public class BusTest {
     private Person person4;
     private Person person5;
     private Person person6;
+    private Person person7;
     private BusStop busStop;
 
     @Before
@@ -23,6 +24,7 @@ public class BusTest {
         person4 = new Person();
         person5 = new Person();
         person6 = new Person();
+        person7 = new Person();
         busStop = new BusStop("Edinburgh");
     }
 
